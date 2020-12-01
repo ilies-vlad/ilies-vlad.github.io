@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3032ef0d-e213-4bf0-93d8-460288453d1f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages en/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages en/Aplication.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/en/Aplication.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages en/Apply.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/Apply.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages en/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages en/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages en/Services.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/Services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages en/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/en/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages ro/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages ro/About.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages ro/Apply.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages ro/Apply.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages ro/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages ro/Contact.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages ro/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages ro/Home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pages ro/Services.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages ro/Services.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1l3v4QIyCOshPGtL6pUfzuwuZNS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3032ef0d-e213-4bf0-93d8-460288453d1f" name="Default Changelist" comment="" />
+      <created>1606838399466</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606838399466</updated>
+      <workItem from="1606838403221" duration="370000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
