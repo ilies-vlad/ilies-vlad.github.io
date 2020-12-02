@@ -2,19 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3032ef0d-e213-4bf0-93d8-460288453d1f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages en/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/About.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages en/Aplication.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/en/Aplication.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages en/Apply.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/Apply.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages en/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/Contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages en/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages en/Services.html" beforeDir="false" afterPath="$PROJECT_DIR$/en/Services.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages en/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/en/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages ro/About.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages ro/About.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages ro/Apply.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages ro/Apply.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages ro/Contact.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages ro/Contact.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages ro/Home.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages ro/Home.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages ro/Services.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages ro/Services.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,6 +23,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -50,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606838399466</updated>
-      <workItem from="1606838403221" duration="370000" />
+      <workItem from="1606838403221" duration="882000" />
     </task>
     <servers />
   </component>
